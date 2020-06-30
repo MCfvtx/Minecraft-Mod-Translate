@@ -29,10 +29,10 @@
 	"item.craftandhunt.spider_poison_boots" : 		"毒蛛靴子",
 	"item.craftandhunt.spider_poison_helmet" : 		"毒蛛头盔",
 	
-	"item.craftandhunt.shulker_chestplate" :		"潜影盒胸甲",
-	"item.craftandhunt.shulker_leggings" : 			"潜影盒护腿",
-	"item.craftandhunt.shulker_boots" : 			"潜影盒靴子",
-	"item.craftandhunt.shulker_helmet" : 			"潜影盒头盔",
+	"item.craftandhunt.shulker_chestplate" :		"潜影胸甲",
+	"item.craftandhunt.shulker_leggings" : 			"潜影护腿",
+	"item.craftandhunt.shulker_boots" : 			"潜影靴子",
+	"item.craftandhunt.shulker_helmet" : 			"潜影头盔",
 	
 	"item.craftandhunt.guardian_chestplate" :		"守卫者胸甲",
 	"item.craftandhunt.guardian_leggings" : 		"守卫者护腿",
